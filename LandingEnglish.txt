@@ -12,6 +12,5 @@
 <p>Personal email: daniel.martinezmtz98@gmail.com</p>
 <p>Institutional email: daniel.martinezm@potros.itson.edu.mx</p>
 <p>Phone: 6221118742</p>
-
 </body>
 </html>
