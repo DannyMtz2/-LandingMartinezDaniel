@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Daniel Martinez Martinez Landing Page</title>
+</head>
+<body>
+
+<h1>Daniel Martinez Martinez</h1>
+<p>Hobbies: Escuchar musica, salir con mis amigos a pistear, viajar, leer y tocar piano </p>
+<p>Series favoritas:How I Met Your Mother, Dark, Braking Bad, The Boys, Invencible y Malcolm In The Middle</p>
+<p>Peliculas favoritas:Interstellar, The Batman, Inglorius Bastards, Aftersun, I'm westen nichts neues y Manchester By The Sea</p>
+<h2>Contacto:</h2>
+<p>Correo personal: daniel.martinezmtz98@gmail.com</p>
+<p>Correo electronico institucional: daniel.martinezm@potros.itson.edu.mx</p>
+<p>Telefono: 6221118742</p>
+
+</body>
+</html>
