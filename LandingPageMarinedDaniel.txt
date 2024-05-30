@@ -7,7 +7,7 @@
 <h1 style="color:blue; font-size:44px;">Daniel Martinez Martinez</h1>
 <h2 style="color:#E52DE2; font-size:25px;">Hobbies: <br>Escuchar musica, salir con mis amigos a pistear, viajar, leer y tocar piano</h2>
 <p style="color:#E77B16; font-size:20px;">Series favoritas:How I Met Your Mother, Dark, Braking Bad, The Boys, Invencible y Malcolm In The Middle</p>
-<h2 style="color:#34495E; font-size:25px;">Peliculas favoritas:Interstellar, The Batman, Inglorius Bastards, Aftersun, I'm westen nichts neues y Manchester By The Sea</h2>
+<h2 style="color:#34495E; font-size:25px;">Peliculas favoritas:Interstellar, The Batman, Inglorius Bastards, Aftersun, I'm westen nichts neues y Manchester By The Sea, Past Lives y Robot Dreams</h2>
 <h1>Contacto:</h1>
 <p>Correo personal: daniel.martinezmtz98@gmail.com</p>
 <p>Correo electronico institucional: daniel.martinezm@potros.itson.edu.mx</p>
